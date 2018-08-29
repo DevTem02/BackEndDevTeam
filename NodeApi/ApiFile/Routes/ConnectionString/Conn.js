@@ -2,10 +2,10 @@
 var mysql      = require('mysql');
 const Originlist=require ('../Auth/Originlist')
 var connection = mysql.createConnection({
-  host     : 'sql9.freemysqlhosting.net',
-  user     : 'sql9252946',
-  password : 'jZBfawXVrW',
-  database : 'sql9252946'
+  host     : 'XXXXX',
+  user     : 'XXXX',
+  password : 'XXXXX',
+  database : 'XXXXX'
 });
 module.exports = {
     ReturnData: function (sqlQuery, callback) {
