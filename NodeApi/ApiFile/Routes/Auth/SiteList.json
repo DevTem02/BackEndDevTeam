@@ -1,0 +1,14 @@
+{
+    "Origin":[
+        
+        
+        {"OriginAccess":"http://localhost:4200"},
+        {"OriginAccess":"http://localhost:3001"},
+        {"OriginAccess":"http://localhost:4203"},
+        {"OriginAccess":"http://localhost:4204"},
+        {"OriginAccess":"http://localhost:4205"}
+    
+    
+    
+    ]
+}
